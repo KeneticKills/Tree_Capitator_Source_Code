@@ -1,0 +1,5 @@
+name: Tree Capitator 1.19.3
+version: '${project.version}'
+main: me.kenetickills.treecapitator.TreeCapitator
+api-version: 1.19
+authors: [ KeneticKills ]

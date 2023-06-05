@@ -1,0 +1,6 @@
+name: TreeCapitator
+version: '${project.version}'
+main: me.keneticqz.treecapitator.TreeCapitator
+api-version: 1.19
+authors: [ KeneticKills ]
+description: When enable tree capitator mode you can break all the log within 2 block radius with chain effect. To enable you just spam sneak about 10 time each times less than 3 second
